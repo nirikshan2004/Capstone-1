@@ -1,0 +1,113 @@
+.ni{
+	height: 250px;
+	width: 200px;
+	background-color: #1ee3cf;
+	position: relative;
+	top: 100px;
+	left: 100px;
+	border-radius: 120px;
+
+}
+.xi{
+	position: relative;
+	bottom: 150px;
+	right: 50px;
+}
+.lo{
+	font-style: italic;
+	position: relative;
+	top: 20px;
+}
+.ev{
+	font-style: italic;
+	position: relative;
+	top: 20px;
+}
+.ar{
+	font-style: italic;
+	position: relative;
+	top: 20px;
+	text-align: center;
+}
+.zz{
+	height: 150px;
+	width: 500;
+	background-color: red;
+}
+.q{
+	height: 150px;
+	width: 176px;
+	background-color: #6ddabe;
+	float: left;
+
+}
+.qq{
+	height: 150px;
+	width: 210px;
+	background-color: #1ee3cf;
+	float: left;
+
+}
+.qqq{
+	height: 150px;
+	width: 164px;
+	background-color: lightblue;
+	float: right;
+
+}
+.oo{
+	height: 220px;
+	width: 250px;
+	background-color: #1ee3cf;
+	position: relative;
+	top: -50px;
+	left: 100px;
+}
+.t{
+	height: 100px;
+	width: 100px;
+	background-color: ghostwhite;
+	float: left;
+	position: relative;
+	top: 120px;
+	left: 10px;
+	
+}
+.tt{
+	height: 100px;
+	width: 100px;
+	background-color: ghostwhite;
+	float: left;
+	position: relative;
+	top: 10px;
+	right: 100px;
+	margin-left: 10px;
+	
+}
+.ttt{
+	height: 100px;
+	width: 100px;
+	background-color: ghostwhite;
+	float:right;
+	position: relative;
+	top: 10px;
+	right: 10px;
+	margin-top: 10px;
+
+	
+
+}
+.tttt{
+	height: 100px;
+	width: 100px;
+	background-color:  ghostwhite;
+	float: right;
+	position: relative;
+	bottom: 100px;
+	left: 100px;
+    margin-right: 10px;
+    margin-top: 10px;
+
+
+
+}

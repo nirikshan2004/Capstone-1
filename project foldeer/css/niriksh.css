@@ -1,0 +1,272 @@
+.a{
+	height: 4000px;
+	width: 550px;
+	background-color: whitesmoke;
+}
+.b{
+	height: 600px;
+	width: 550px;
+	background-color:  #1ee3cf;
+}
+.c{
+	height: 600px;
+	width: 550px;
+	background-color: ghostwhite;
+}
+.d{
+
+	height: 600px;
+	width: 550px;
+	background: url(../images/th.jpg);
+	background-position: right;
+	background-size: 320px;
+	background-repeat: no-repeat;
+
+}
+.e{
+	height: 600px;
+	width: 550px;
+	background-color: ghostwhite;
+	background: url(../images/group.jpg); 
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size:450px;
+	position: relative;
+	left: 30px;
+}
+.f{
+	height: 600px;
+	width: 550px;
+	background-color: #1ee3cf;
+	background: url(../images/civ.jpg);
+	background-position: center;
+	background-size: 500px;
+	background-repeat: no-repeat;
+
+
+}
+.g{
+	height: 600px;
+	width: 550px;
+	background-color:ghostwhite;
+	background: url(../images/pas.jpg);
+	background-position: center;
+	background-size: 500px;
+	background-repeat: no-repeat;
+
+}
+.h{
+	height: 600px;
+	width: 550px;
+	background-color: #1ee3cf;
+}
+.i{
+	height: 650px;
+	width: 550px;
+	background-color: ghostwhite;
+}
+.vi{ 	
+	height: 300px;
+	width: 350px;
+	background: url('../images/DEv.jpg');
+	background-size: cover;
+	background-position: center;
+    position: relative;
+    top: 40px;
+}
+
+.vi h3{
+	color: #fff;
+	position: absolute;
+	right: -50px;
+}
+.im{
+	position: relative;
+	top: 30px;
+}
+.in{
+	height: 25px;
+	width: 50px;
+	float: left;
+	background-color: ghostwhite;
+}
+.ins{
+	height: 25px;
+	width: 60px;
+	float: right;
+	background-color: ghostwhite;
+
+}
+.int{
+	height: 25px;
+	width: 60px;
+	float: left;
+	background-color: ghostwhite;
+
+}
+.ini{
+	height: 25px;
+	width: 60px;
+	float: right;
+	background-color: ghostwhite;
+
+}
+.fd{
+	float: left;
+	position: relative;
+	top: 80px;
+	left: 10px;
+}
+.in{
+	height: 305px;
+	width: 400px;
+	background-color: #1ee3cf;
+	float: right;
+	position: sticky;
+	top: 50px;
+	right: 50px;
+	border-radius: 50px;
+}
+.pa{
+	font-style: oblique;
+	float: left;
+	position: relative;
+	top: 130px;
+	right: 200px;
+
+}
+.if{
+	position: relative;
+	top: 110px;
+	right: 180px;
+	font-style: italic;
+}
+.IF{
+	position: relative;
+	top: 120px;
+	right: 200px;
+	font-size: 20px;
+	font-style: web open Font Format;
+}
+.gr{
+	height: 90px;
+	width: 80px;
+	background-color: darkgreen;
+	position: relative;
+	top: 400px;
+	left: 200px;
+	border-radius: 50px;
+}
+.wh{
+	height: 200px;
+	width: 260px;
+	background-color: ghostwhite;
+	position: relative;
+	top: 320px;
+	left: 100px;
+}
+.r{
+	font-size: 20px;
+}
+.m{
+	font-style: comic san;
+	position: relative;
+	bottom: 20px;
+}
+.gw{
+	height: 300px;
+	width: 250px;
+	background-color: ghostwhite;
+	position: relative;
+	top: 150px;
+	right: 127px;
+
+}
+.bu{
+	position: relative;
+	top: 30px;
+}
+.gc{
+	height: 100px;
+	width: 100px;
+	background-color: darkgreen;
+	position: relative;
+	top: 170px;
+	left: 100px;
+	
+}
+.ga{
+	height: 300px;
+	width: 400px;
+	background-color: #1ee3cf;
+	position: relative;
+	top: 150px;
+	border-radius: 150px;
+}
+.p{
+	font-style: normal;
+	font-size: 35px;
+	position: relative;
+	top: 80px;
+}
+.x{
+	background: url(../images/linkedin-3-16.png);
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-position: top;
+
+}
+.y{
+	background: url(../images/youtube-4-16.png);
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-position: top;
+
+}
+.z{
+	background: url(../images/youtube-4-16.png);
+	background-size: 60px;
+	background-repeat: no-repeat;
+	background-position: top;
+
+}
+.m{
+	position: relative;
+	top: 80px;
+	font-style: italic;
+}
+.n{
+	position: relative;
+	top: 80px;
+	font-style: italic;
+}
+.o{
+	position: relative;
+	top: 80px;
+	font-style: italic;
+}
+.select-container{
+	direction: flex;
+	justify-content: center;
+	position: relative;
+	min-width: 250px;
+	height: 50px;
+}
+.s-b{
+	border: none;
+	appearance: none;
+	padding: 0 30px 0 15px;
+	width: 450px;
+	background-color: #1ee3cf;
+	font-size: 20px;
+
+}
+.select-container.ic{
+	width: 20px;
+	height: 100px;
+	position: absolute;
+	right: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
